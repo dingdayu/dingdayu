@@ -1,8 +1,18 @@
 ### Hi there 👋
 
-<!--
-**dingdayu/dingdayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, thanks for stopping by, this is **Xiaoyu Ding** from China, base in Beijing.
 
+I am a senior server developer and a ham lover (BI1JAK), use tools that you know or position to implement some of your ideas.
+
+Here are some of my public information, maybe you will be interested:
+
+- 🔭  Kubernetes, Go, DNS, [go-wechaty](https://github.com/wechaty/go-wechaty)
+- 🌱  Shapr3D
+- 👯  [DNSX](https://github.com/dingdayu/dnsx)
+- 💬  A single dog with a technical nerd.
+- 📫  Contacting me via email is a great: 614422099@qq.com, dingxiaoyu.ddy@gmail.com
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
