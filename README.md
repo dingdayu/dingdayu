@@ -6,11 +6,11 @@ I am a senior server developer and a ham lover (BI1JAK), use tools that you know
 
 Here are some of my public information, maybe you will be interested:
 
-- 🔭  Kubernetes, Go, DNS, [go-wechaty](https://github.com/wechaty/go-wechaty)
-- 🌱  Shapr3D
-- 👯  [DNSX](https://github.com/dingdayu/dnsx)
-- 💬  A single dog with a technical nerd.
-- 📫  Contacting me via email is a great: 614422099@qq.com, dingxiaoyu.ddy@gmail.com
+- 🔭  I’m currently working on: Kubernetes, Go, DNS, [go-wechaty](https://github.com/wechaty/go-wechaty)
+- 🌱  I’m currently learning: Shapr3D
+- 👯  I’m looking to collaborate on: [DNSX](https://github.com/dingdayu/dnsx)
+- 💬  Ask me about: A single dog with a technical nerd.
+- 📫  How to reach me: 614422099@qq.com, dingxiaoyu.ddy@gmail.com
 
 <!--
 Here are some ideas to get you started:
