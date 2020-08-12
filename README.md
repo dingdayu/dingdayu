@@ -8,7 +8,7 @@ Here are some of my public information, maybe you will be interested:
 
 - 🔭  I’m currently working on: Go, Kubernetes, DNS, [go-wechaty](https://github.com/wechaty/go-wechaty)
 - 🌱  I’m currently learning: Shapr3D
-- 👯  I’m looking to collaborate on: [DNSX](https://github.com/dingdayu/dnsx)
+- 👯  I’m looking to collaborate on: [DNSX](https://github.com/dingdayu/dnsx), [Adbs](https://github.com/dingdayu/dnsx)
 - 💬  Ask me about: DNS, Go.
 - 📫  How to reach me: 614422099@qq.com, dingxiaoyu.ddy@gmail.com
 
