@@ -12,17 +12,19 @@ Here are some of my public information, maybe you will be interested:
 - 💬  Ask me about: DNS, Go.
 - 📫  How to reach me: dingxiaoyu.ddy@gmail.com
 
-![DINGDAYU](https://github-readme-stats.vercel.app/api?username=dingdayu&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true)
+## Languages & Frameworks & Tools & Abilities
 
-<!--
-Here are some ideas to get you started:
+![Go](https://img.shields.io/badge/-Go-black?logo=go&style=social)&nbsp;&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-black?logo=php&style=social)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=python&style=social)&nbsp;&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&style=social)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-black?logo=redis&style=social)&nbsp;&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/thinkerou/github-readme-stats" title="Go to Source">
+  <img height=180 src="https://github-readme-stats.vercel.app/api?username=dingdayu&show_icons=true&theme=gotham&hide_title=true">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dingdayu&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+</a>
