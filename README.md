@@ -22,9 +22,9 @@ Here are some of my public information, maybe you will be interested:
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-black?logo=redis&style=social)&nbsp;&nbsp;
 
-<a href="https://github.com/thinkerou/github-readme-stats" title="Go to Source">
+<!-- <a href="https://github.com/thinkerou/github-readme-stats" title="Go to Source">
   <img height=180 src="https://github-readme-stats.vercel.app/api?username=dingdayu&show_icons=true&theme=gotham&hide_title=true">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dingdayu&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
-</a>
+</a> -->
