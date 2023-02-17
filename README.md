@@ -1,15 +1,16 @@
 ### Hi there 👋
 
-Hi there, thanks for stopping by, this is **Xiaoyu Ding** from China, base in Beijing.
+Hi guys, thanks for stopping by, this is **Xiaoyu Ding** from China, base in Beijing.
 
-I am a senior server developer and a ham lover (BI1JAK), use tools that you know or position to implement some of your ideas.
+I am full stack developer and a ham (BI1JAK), has a wide range of hobbies and is obsessed with them..
 
 Here are some of my public information, maybe you will be interested:
 
-- 🔭  I’m currently working on: Go, Kubernetes, DNS, [go-wechaty](https://github.com/wechaty/go-wechaty)
-- 🌱  I’m currently learning: Shapr3D
+- 👷  I’m currently working on: Kubernetes, Argo Workflow, Flink, Redshift, Elasticsearch, Trino, Dbt, Airbyte, RabbitMQ, fastapi, Redis, etc.
+- 🔭  I follow other open-source projects: terraform, go, gin, caddy, etcd, gitlab, minio, kong, metabase, super, PaddlePaddle, Superset, etc.
+<!-- - 🌱  I’m currently learning: Shapr3D
 - 👯  I’m looking to collaborate on: [DNSX](https://github.com/dingdayu/dnsx), [Adbs](https://github.com/dingdayu/dnsx)
-- 💬  Ask me about: DNS, Go.
+- 💬  Ask me about: DNS, Go. -->
 - 📫  How to reach me: dingxiaoyu.ddy@gmail.com
 
 ## Languages & Frameworks & Tools & Abilities
